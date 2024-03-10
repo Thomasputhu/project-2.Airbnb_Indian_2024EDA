@@ -2,7 +2,7 @@
 # India's Airbnb Gems: 2024 Trending Picks 🏠
 
 **Date:** 08/03/2024  
-**Author:** Thomas Phuthu
+**Author:** Thomas Puthu
 
 ---
 
@@ -20,7 +20,7 @@ The analysis and code for this project are available in a Google Colab notebook,
 
 ## Contact Information
 
-For inquiries or further information, please contact:
+For inquiries or further information, please contact:thomascmi@yahoo.com
 
 thomascmi@yahoo.com
 
